@@ -17,5 +17,3 @@ Copy this sample pyhon script to local system and run this, No need to the proce
   - enemy_image = pygame.image.load('/Users/user1/2.jpg').convert_alpha()
   - power_up_image = pygame.image.load('/Users/user1/3.jpg').convert_alpha()
   - big_enemy_image = pygame.image.load('/Users/user1/4.jpg').convert_alpha()
-
-![shooting-game](https://user-images.githubusercontent.com/45964305/236821879-05b3b3a7-a8bb-4fe1-aa57-cd603eb5fece.jpg)
