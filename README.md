@@ -12,7 +12,7 @@ Copy this sample pyhon script to local system and run this, No need to the proce
 - 2-ChatGPT-based-shooting-game-sample.py
   
   Local path of image file should be changed
-  player_image = pygame.image.load('/Users/user1/1.jpg').convert_alpha()
-  enemy_image = pygame.image.load('/Users/user1/2.jpg').convert_alpha()
-  power_up_image = pygame.image.load('/Users/user1/3.jpg').convert_alpha()
-  big_enemy_image = pygame.image.load('/Users/user1/4.jpg').convert_alpha()
+  1.player_image = pygame.image.load('/Users/user1/1.jpg').convert_alpha()
+  2.enemy_image = pygame.image.load('/Users/user1/2.jpg').convert_alpha()
+  3.power_up_image = pygame.image.load('/Users/user1/3.jpg').convert_alpha()
+  4.big_enemy_image = pygame.image.load('/Users/user1/4.jpg').convert_alpha()
